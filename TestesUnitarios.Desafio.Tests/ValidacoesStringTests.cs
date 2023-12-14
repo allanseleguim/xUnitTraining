@@ -1,5 +1,7 @@
-using TestesUnitarios.Desafio.Console.Services;
+using System;
+using System.Collections.Generic;
 using Xunit;
+using TestesUnitarios.Desafio.Console.Services;
 namespace TestesUnitarios.Desafio.Tests
 {
     public class ValidacoesStringTests
